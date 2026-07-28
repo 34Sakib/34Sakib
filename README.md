@@ -70,15 +70,15 @@ Full Stack Developer | Laravel • React.js • Next.js Enthusiast 🚀
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=34Sakib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=34Sakib&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=34Sakib&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -88,7 +88,7 @@ Full Stack Developer | Laravel • React.js • Next.js Enthusiast 🚀
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7&no-frame=true&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=34Sakib&theme=tokyonight&column=7&no-frame=true&no-bg=true"/>
 
 </p>
 
@@ -98,7 +98,7 @@ Full Stack Developer | Laravel • React.js • Next.js Enthusiast 🚀
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=34Sakib&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -108,7 +108,7 @@ Full Stack Developer | Laravel • React.js • Next.js Enthusiast 🚀
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/34Sakib/34Sakib/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </p>
 
@@ -135,7 +135,7 @@ Full Stack Developer | Laravel • React.js • Next.js Enthusiast 🚀
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=34SakibE&style=for-the-badge&color=0e75b6"/>
 
 ### ⭐ Thanks for visiting my profile!
 
