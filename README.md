@@ -1,74 +1,46 @@
-````md
-<h1 align="center">Hey 👋, I'm Sakib Al Mahamud</h1>
+<h1 align="center">Hi 👋, I'm Sakib Al Mahamud</h1>
 
-<h3 align="center">Full Stack Developer | Laravel • React.js • Exploring Next.js 🚀</h3>
-
-###
+<h3 align="center">
+Full Stack Developer | Laravel • React.js • Next.js Enthusiast 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+React.js+Developer;Currently+Exploring+Next.js;Always+Learning+New+Technologies;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Laravel+%7C+React.js+Developer;Currently+Learning+Next.js;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-###
+---
 
-<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate from **American International University-Bangladesh (AIUB)**
+- 🎓 Computer Science graduate from **American International University-Bangladesh (AIUB)**
 - 💼 Full Stack Developer at **Mentors' Global**
-- 💻 Building modern web applications using **Laravel** & **React.js**
-- 🌱 Currently exploring **Next.js**
-- 🚀 Passionate about scalable applications and clean architecture
-- 🤝 Open to collaborating on exciting Open Source projects
+- 💻 Passionate about building scalable, secure, and user-friendly web applications
+- ⚛️ Experienced with **Laravel**, **React.js**, **REST APIs**, and **MySQL**
+- 🌱 Currently learning **Next.js**, **Docker**, and modern deployment workflows
+- 🚀 Love building practical projects and contributing to **Open Source**
+- 🤝 Open to collaboration on exciting web development projects
 - 📍 Based in **Dhaka, Bangladesh**
-- ⚡ Fun fact: *I enjoy turning ideas into real-world products.*
+- ⚡ Fun fact: **I enjoy turning ideas into real-world digital products.**
 
-<br clear="right"/>
+<br>
 
-###
+---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=php" height="55" alt="PHP"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=laravel" height="55" alt="Laravel"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=react" height="55" alt="React"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="NextJS"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=ts" height="55" alt="TypeScript"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="TailwindCSS"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="Bootstrap"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="55" alt="PostgreSQL"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=redis" height="55" alt="Redis"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=docker" height="55" alt="Docker"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
-<img width="12"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="55" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,js,ts,tailwind,bootstrap,html,css,mysql,postgres,docker,git,github,vscode,postman,figma" />
 
-</div>
+</p>
 
-###
+---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://sakibalmahamud.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -86,74 +58,87 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
+<a href="mailto:sakibalmahamud34@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-###
+</p>
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
+# 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&hide_border=true"/>
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dracula&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-###
+<p align="center">
 
-## 🏆 GitHub Trophies
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&column=7&margin-w=10&margin-h=10"/>
+---
 
-</div>
+# 🏆 GitHub Trophies
 
-###
+<p align="center">
 
-## 📈 Contribution Graph
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7&no-frame=true&no-bg=true"/>
 
-<div align="center">
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
+---
 
-</div>
+# 📈 Contribution Graph
 
-###
+<p align="center">
 
-## 🐍 Contribution Snake
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-<div align="center">
+</p>
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+---
 
-</div>
+# 🐍 Contribution Snake
 
-###
+<p align="center">
 
-## 🚀 Current Focus
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</p>
+
+---
+
+# 🚀 Current Focus
 
 ```text
-🔭 Working at          : Mentors' Global
-💻 Current Stack       : Laravel + React.js
-🌱 Learning            : Next.js
-📚 Exploring           : Modern Web Technologies
-📍 Location            : Dhaka, Bangladesh
-🔥 GitHub Contributions: 280+
+💼 Working At      : Mentors' Global
+💻 Tech Stack      : Laravel • React.js
+🌱 Currently Learning : Next.js • Docker
+🚀 Interested In   : System Design & Cloud Deployment
+📍 Location        : Dhaka, Bangladesh
+🎯 Goal            : Become a Senior Full Stack Engineer
 ```
 
-###
+---
 
-<div align="center">
+# 💡 Quote
+
+> **"First, solve the problem. Then, write the code." – John Johnson**
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."* 🚀
+**If you like my work, consider giving a ⭐ to my repositories!**
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
-
-</div>
-````
+</p>
