@@ -15,7 +15,7 @@ Full Stack Developer | Laravel • React.js • Next.js Enthusiast 🚀
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science graduate from **American International University-Bangladesh (AIUB)**
-- 💼 Full Stack Developer at **Mentors' Global**
+- 💼 Full Stack Developer at **Mentors'**
 - 💻 Passionate about building scalable, secure, and user-friendly web applications
 - ⚛️ Experienced with **Laravel**, **React.js**, **REST APIs**, and **MySQL**
 - 🌱 Currently learning **Next.js**, **Docker**, and modern deployment workflows
@@ -66,50 +66,40 @@ Full Stack Developer | Laravel • React.js • Next.js Enthusiast 🚀
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=34Sakib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=34Sakib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=34Sakib&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=34Sakib&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=34Sakib&theme=tokyonight&hide_border=true"/>
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=34Sakib&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=34Sakib&theme=tokyonight&column=7&no-frame=true&no-bg=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=34Sakib&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=34Sakib&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=34Sakib&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/34Sakib/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+  <img src="https://raw.githubusercontent.com/34Sakib/34Sakib/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
