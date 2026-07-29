@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=34Sakib&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-trophies.vercel.app/?username=34Sakib&theme=tokyonightt&no-frame=true&margin-w=10&row=1"/>
 
 </div>
 
