@@ -94,7 +94,7 @@ Full Stack Developer | Laravel • React.js • Next.js Enthusiast 🚀
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/34Sakib/34Sakib/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/34Sakib/34Sakib/output/github-contribution-grid-snake-dark.svg)" />
+ <img src="https://raw.githubusercontent.com/34Sakib/34Sakib/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
