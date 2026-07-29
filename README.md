@@ -25,7 +25,7 @@
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🎓 Computer Science graduate from **American International University-Bangladesh (AIUB)**
-- 💼 Full Stack Developer at **Mentors' Global**
+- 💼 Full Stack Developer at **Mentors'**
 - 💻 Passionate about building scalable, secure, and user-friendly web applications
 - ⚛️ Experienced with **Laravel**, **React.js**, **REST APIs**, and **MySQL**
 - 🌱 Currently learning **Next.js**, **Docker**, and modern deployment workflows
@@ -51,7 +51,7 @@
 ## 🚀 Current Focus
 
 ```yaml
-💼 Working At        : Mentors' Global
+💼 Working At        : Mentors'
 💻 Tech Stack        : Laravel • React.js
 🌱 Currently Learning : Next.js • Docker
 🚀 Interested In     : System Design & Cloud Deployment
