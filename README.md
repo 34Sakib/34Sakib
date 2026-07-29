@@ -66,9 +66,10 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=34Sakib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=34Sakib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
 
-<img src="https://streak-stats.demolab.com?user=34Sakib&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=34Sakib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=34Sakib&theme=tokyonight&hide_border=true"/>
 
 </div>
 
