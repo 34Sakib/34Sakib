@@ -108,8 +108,8 @@
 
 ## 💡 Quote
 
-> **"First, solve the problem. Then, write the code."**
-> — John Johnson
+> **"The only way to do great work is to love what you do."**
+> — Steve Jobs
 
 <br/>
 
